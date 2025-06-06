@@ -19,7 +19,7 @@ This dashboard visualizes intrusion rates by protocol (e.g., TCP at ~80% anomaly
 
 ## Files
 - [Network_Intrusion_Dashboard_20250606_Final.pbix](Network_Intrusion_Dashboard_20250606_Final.pbix): The Power BI file for the dashboard.
--  [Network_Intrusion_Dashboard_Screenshot.png](Network_Intrusion_Dashboard_Screenshot.png)
+-  [Network_Intrusion_Dashboard_Screenshot.png](Network_Intrusion_Dashboard_Screenshot.png).
 
 : A screenshot of the dashboard.
 
