@@ -28,7 +28,7 @@ This dashboard visualizes intrusion rates by protocol (e.g., TCP at ~80% anomaly
 
 ## Credits
 - Dataset: Kaggle Network Intrusion Detection dataset by Sampada Bhattacharya.
-- Created by [Your Name].
+- Created by Robert Blake.
 
 ## Contact
 I’m seeking opportunities as a Power BI Data Analyst. Feel free to connect with me on [LinkedIn]([Your LinkedIn URL]) or email me at [Your Email] for feedback or job opportunities!
