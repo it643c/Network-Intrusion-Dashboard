@@ -31,4 +31,4 @@ This dashboard visualizes intrusion rates by protocol (e.g., TCP at ~80% anomaly
 - Created by Robert Blake.
 
 ## Contact
-I’m seeking opportunities as a Power BI Data Analyst. Feel free to connect with me on [Robert Blake] [LinkedIn]([https://www.linkedin.com/public-profile/settings] or email me at [wysiwyg2day@gmail.com] for feedback or job opportunities!
+I’m seeking opportunities as a Power BI Data Analyst. Feel free to connect with me on [Robert Blake] [LinkedIn]([https://www.linkedin.com/in/robertblake1/] or email me at wysiwyg2day@gmail.com for feedback or job opportunities!
