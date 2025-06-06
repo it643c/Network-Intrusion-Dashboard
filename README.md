@@ -19,7 +19,7 @@ This dashboard visualizes intrusion rates by protocol (e.g., TCP at ~80% anomaly
 
 ## Files
 - [Network_Intrusion_Dashboard_20250606_Final.pbix](Network_Intrusion_Dashboard_20250606_Final.pbix): The Power BI file for the dashboard.
-- [Screenshot.png](Screenshot.png): A screenshot of the dashboard.
+- [Screenshot.png](NID.png): A screenshot of the dashboard.
 
 ## How to Use
 1. Download the `.pbix` file.
@@ -31,4 +31,4 @@ This dashboard visualizes intrusion rates by protocol (e.g., TCP at ~80% anomaly
 - Created by Robert Blake.
 
 ## Contact
-I’m seeking opportunities as a Power BI Data Analyst. Feel free to connect with me on [LinkedIn]([linkedin.com/in/robertblake1])[] or email me at [wysiwyg2day@gmail.com] for feedback or job opportunities!
+I’m seeking opportunities as a Power BI Data Analyst. Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B%2FvMCFLznSpO5jBP0IPl%2FdA%3D%3D])] or email me at [wysiwyg2day@gmail.com] for feedback or job opportunities!
