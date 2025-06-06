@@ -19,7 +19,7 @@ This dashboard visualizes intrusion rates by protocol (e.g., TCP at ~80% anomaly
 
 ## Files
 - [Network_Intrusion_Dashboard_20250606_Final.pbix](Network_Intrusion_Dashboard_20250606_Final.pbix): The Power BI file for the dashboard.
--  [Network_Intrusion_Dashboard_Screenshot.png](Network_Intrusion_Dashboard_Screenshot.png
+-  [Network_Intrusion_Dashboard_Screenshot.png](Network_Intrusion_Dashboard_Screenshot.png)
 
 : A screenshot of the dashboard.
 
@@ -30,7 +30,7 @@ This dashboard visualizes intrusion rates by protocol (e.g., TCP at ~80% anomaly
 
 ## Credits
 - Dataset: Kaggle Network Intrusion Detection dataset by Sampada Bhattacharya.
-- Created by Robert Blake.
+- Power BI Dashboard Created by Robert Blake.
 
 ## Contact
 I’m seeking opportunities as a Power BI Data Analyst. Feel free to connect with me on [Robert Blake] [LinkedIn]([https://www.linkedin.com/in/robertblake1/] or email me at wysiwyg2day@gmail.com for feedback or job opportunities!
