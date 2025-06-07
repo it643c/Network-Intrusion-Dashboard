@@ -3,7 +3,7 @@
 An interactive Power BI dashboard analyzing network intrusions using the [Kaggle Network Intrusion Detection dataset](https://www.kaggle.com/datasets/sampadab17/network-intrusion-detection).
 
 ## Overview
-This dashboard visualizes intrusion rates by protocol (e.g., TCP at ~80% anomaly) and flag (e.g., SH at 100%), with interactive slicers for `protocol_type`, `flag`, and `service`, key metrics like `Sum of Hot Flags` (4989) with tooltips, and a clean, user-friendly design. It helps identify potential security threats by highlighting high-risk patterns in network traffic.
+This dashboard visualizes intrusion rates by protocol (e.g., TCP at ~80% anomaly) and flag (e.g., SO at 100%), with interactive slicers for `protocol_type`, `flag`, and `service`, key metrics like `Sum of Hot Flags` (4989) with tooltips, and a clean, user-friendly design. It helps identify potential security threats by highlighting high-risk patterns in network traffic.
 
 
 ![Network Intrusion Dashboard Screenshot](Network_Intrusion_Dashboard_Screenshot.PNG)
