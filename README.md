@@ -6,7 +6,7 @@ An interactive Power BI report analyzing network intrusions using the [Kaggle Ne
 This report visualizes intrusion rates by protocol (e.g., TCP at ~80% anomaly) and flag (e.g., SO at 100%), with interactive slicers for `protocol_type`, `flag`, and `service`, key metrics like `Sum of Hot Flags` (4989) with tooltips, and a clean, user-friendly design. It helps identify potential security threats by highlighting high-risk patterns in network traffic.
 
 
-![Network Intrusion Report Screenshot](Network_Intrusion_Dashboard_Report_Screenshot.PNG)
+![Network Intrusion Report Screenshot](Network_Intrusion_Report_Screenshot.PNG)
 
 
 
